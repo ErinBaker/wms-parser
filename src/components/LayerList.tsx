@@ -1,4 +1,3 @@
-import React from 'react';
 import { LayerData } from '../types';
 import { Map, Link } from 'lucide-react';
 import LayerLegend from './LayerLegend';

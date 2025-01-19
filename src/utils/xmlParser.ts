@@ -73,5 +73,5 @@ export function parseLayerData(xmlDoc: Document): LayerData[] {
     }
   }
 
-  return layers;
+  return layers;  
 }
